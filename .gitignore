@@ -118,3 +118,6 @@ dist
 .pnp.*
 
 .vscode
+.vs/
+bin/
+obj/

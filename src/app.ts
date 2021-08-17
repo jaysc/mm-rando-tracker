@@ -4,6 +4,7 @@ import path from "path";
 import * as MMRSettings from "./interfaces/MMRSettings"
 import Item from "./classes/item"
 import readline from "readline";
+import * as _ from "lodash";
 
 const app = express()
 const port = 3000
@@ -14,16 +15,46 @@ const logicFilePath = path.join(__dirname, 'public/REQ_CASUAL.txt');
 
 app.get('/', async (req, res) => {
   const settings = JSON.parse(fs.readFileSync(settingFilePath) as unknown as string) as MMRSettings.RootObject;
-  const logicFile = await processLineByLine();
+  const logicItems = await processLineByLine();
 
-  res.json(logicFile)
+  const result = {};
+  logicItems.forEach(item => {
+    result[item.name] = {
+      "id": item.id,
+      "requiredItems": item.requriedItems,
+      "avaliableOn": item.avaliableOn,
+      "neededOn": item.neededOn,
+      "conditionalItems": item.conditionalItems
+    }
+  })
+
+  res.json(result)
+})
+
+app.get('/logic', async (req, res) => {
+  const logicItems = await processLineByLine();
+  let result = "";
+
+  _.forEach(logicItems, i => {
+    result += `${i.name}</br >`
+    if (i.requriedItems){
+      result += "Required for: </br >"
+      i.requriedItems.forEach(ri => {
+        let requiredItem = logicItems[ri]
+        result += `${requiredItem.name} </br >`
+      })
+    }
+    result += "</br >"
+  })
+
+  res.send(result);
 })
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
 
-async function processLineByLine() {
+async function processLineByLine(): Promise<Item[]> {
   const fileStream = fs.createReadStream(logicFilePath);
 
   const rl = readline.createInterface({
@@ -53,16 +84,16 @@ async function processLineByLine() {
         item.name = line.replace("- ", "");
         break;
       case 2:
-        item.requriedItems = line.split(",").map(r => parseInt(r));
+        if (line) item.requriedItems = line.split(",").map(r => parseInt(r));
         break;
       case 3:
-        item.conditionalItems = line.split(";").map(r => r.split(",").map(f => parseInt(f)));
+        if (line) item.conditionalItems = line.split(";").map(r => r.split(",").map(f => parseInt(f)));
         break;
       case 4:
-        item.neededOn = parseInt(line);
+        if (line) item.neededOn = parseInt(line);
         break;
       case 5:
-        item.avaliableOn = parseInt(line);
+        if (line) item.avaliableOn = parseInt(line);
         break;
 
       case 6:
@@ -74,18 +105,6 @@ async function processLineByLine() {
 
     itemLineNumber++;
   }
-  console.log(items);
 
-  const result = {};
-  items.forEach(item => {
-    result[item.name] = {
-      "id": item.id,
-      "requiredItems": item.requriedItems,
-      "avaliableOn": item.avaliableOn,
-      "neededOn": item.neededOn,
-      "conditionalItems": item.conditionalItems
-    }
-  })
-
-  return result;
+  return items;
 }

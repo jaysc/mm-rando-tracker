@@ -1,0 +1,6311 @@
+[
+    {
+        "ID": 0,
+        "Name": "Deku Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Starting Item"
+    },
+    {
+        "ID": 1,
+        "Name": "Hero's Bow",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Hero's Bow Chest"
+    },
+    {
+        "ID": 2,
+        "Name": "Fire Arrow",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Fire Arrow Chest"
+    },
+    {
+        "ID": 3,
+        "Name": "Ice Arrow",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Ice Arrow Chest"
+    },
+    {
+        "ID": 4,
+        "Name": "Light Arrow",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Light Arrow Chest"
+    },
+    {
+        "ID": 5,
+        "Name": "Bomb Bag",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Bomb Bag Purchase"
+    },
+    {
+        "ID": 6,
+        "Name": "Magic Bean",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Bean Man"
+    },
+    {
+        "ID": 7,
+        "Name": "Powder Keg",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Powder Keg Challenge"
+    },
+    {
+        "ID": 8,
+        "Name": "Pictobox",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Koume"
+    },
+    {
+        "ID": 9,
+        "Name": "Lens of Truth",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Lens of Truth Chest"
+    },
+    {
+        "ID": 10,
+        "Name": "Hookshot",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Hookshot Chest"
+    },
+    {
+        "ID": 11,
+        "Name": "Magic Power",
+        "ItemCategory": "MagicPowers",
+        "LocationName": "Town Great Fairy Non-Human"
+    },
+    {
+        "ID": 12,
+        "Name": "Spin Attack",
+        "ItemCategory": "MagicPowers",
+        "LocationName": "Woodfall Great Fairy"
+    },
+    {
+        "ID": 13,
+        "Name": "Extended Magic Power",
+        "ItemCategory": "MagicPowers",
+        "LocationName": "Snowhead Great Fairy"
+    },
+    {
+        "ID": 14,
+        "Name": "Double Defense",
+        "ItemCategory": "MagicPowers",
+        "LocationName": "Ocean Great Fairy"
+    },
+    {
+        "ID": 15,
+        "Name": "Great Fairy's Sword",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Ikana Great Fairy"
+    },
+    {
+        "ID": 16,
+        "Name": "Bottle with Red Potion",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Kotake"
+    },
+    {
+        "ID": 17,
+        "Name": "Bottle with Milk",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Aliens Defense"
+    },
+    {
+        "ID": 18,
+        "Name": "Bottle with Gold Dust",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Goron Race"
+    },
+    {
+        "ID": 19,
+        "Name": "Empty Bottle",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Beaver Race #1"
+    },
+    {
+        "ID": 20,
+        "Name": "Empty Bottle",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Dampe Digging"
+    },
+    {
+        "ID": 21,
+        "Name": "Bottle with Chateau Romani",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Madame Aroma in Bar"
+    },
+    {
+        "ID": 22,
+        "Name": "Bombers' Notebook",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Bombers' Hide and Seek"
+    },
+    {
+        "ID": 23,
+        "Name": "Razor Sword",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Mountain Smithy Day 1"
+    },
+    {
+        "ID": 24,
+        "Name": "Gilded Sword",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Mountain Smithy Day 2"
+    },
+    {
+        "ID": 25,
+        "Name": "Mirror Shield",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Mirror Shield Chest"
+    },
+    {
+        "ID": 26,
+        "Name": "Large Quiver",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Town Archery #1"
+    },
+    {
+        "ID": 27,
+        "Name": "Largest Quiver",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Swamp Archery #1"
+    },
+    {
+        "ID": 28,
+        "Name": "Big Bomb Bag",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Big Bomb Bag Purchase"
+    },
+    {
+        "ID": 29,
+        "Name": "Biggest Bomb Bag",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Biggest Bomb Bag Purchase"
+    },
+    {
+        "ID": 30,
+        "Name": "Adult Wallet",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Bank Reward #1"
+    },
+    {
+        "ID": 31,
+        "Name": "Giant Wallet",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Ocean Spider House Day 1 Reward"
+    },
+    {
+        "ID": 32,
+        "Name": "Moon's Tear",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Astronomy Telescope"
+    },
+    {
+        "ID": 33,
+        "Name": "Land Title Deed",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Clock Town Scrub Trade"
+    },
+    {
+        "ID": 34,
+        "Name": "Swamp Title Deed",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Swamp Scrub Trade"
+    },
+    {
+        "ID": 35,
+        "Name": "Mountain Title Deed",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Mountain Scrub Trade"
+    },
+    {
+        "ID": 36,
+        "Name": "Ocean Title Deed",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Ocean Scrub Trade"
+    },
+    {
+        "ID": 37,
+        "Name": "Room Key",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Inn Reservation"
+    },
+    {
+        "ID": 38,
+        "Name": "Letter to Kafei",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Midnight Meeting"
+    },
+    {
+        "ID": 39,
+        "Name": "Pendant of Memories",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Kafei"
+    },
+    {
+        "ID": 40,
+        "Name": "Letter to Mama",
+        "ItemCategory": "TradeItems",
+        "LocationName": "Curiosity Shop Man #2"
+    },
+    {
+        "ID": 41,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Mayor"
+    },
+    {
+        "ID": 42,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Postman's Game"
+    },
+    {
+        "ID": 43,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Rosa Sisters"
+    },
+    {
+        "ID": 44,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Toilet Hand"
+    },
+    {
+        "ID": 45,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Grandma Short Story"
+    },
+    {
+        "ID": 46,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Grandma Long Story"
+    },
+    {
+        "ID": 47,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Keaton Quiz"
+    },
+    {
+        "ID": 48,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Deku Playground Three Days"
+    },
+    {
+        "ID": 49,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Town Archery #2"
+    },
+    {
+        "ID": 50,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Honey and Darling Three Days"
+    },
+    {
+        "ID": 51,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Swordsman's School"
+    },
+    {
+        "ID": 52,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Postbox"
+    },
+    {
+        "ID": 53,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Gossip Stones"
+    },
+    {
+        "ID": 54,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Business Scrub Purchase"
+    },
+    {
+        "ID": 55,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Swamp Archery #2"
+    },
+    {
+        "ID": 56,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Pictograph Contest Winner"
+    },
+    {
+        "ID": 57,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Boat Archery"
+    },
+    {
+        "ID": 58,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Frog Choir"
+    },
+    {
+        "ID": 59,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Beaver Race #2"
+    },
+    {
+        "ID": 60,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Seahorses"
+    },
+    {
+        "ID": 61,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Fisherman Game"
+    },
+    {
+        "ID": 62,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Evan"
+    },
+    {
+        "ID": 63,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Dog Race"
+    },
+    {
+        "ID": 64,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Poe Hut"
+    },
+    {
+        "ID": 65,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Treasure Chest Game Goron"
+    },
+    {
+        "ID": 66,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Peahat Grotto"
+    },
+    {
+        "ID": 67,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Dodongo Grotto"
+    },
+    {
+        "ID": 68,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Woodfall Bridge Chest"
+    },
+    {
+        "ID": 69,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Twin Islands Underwater Ramp Chest"
+    },
+    {
+        "ID": 70,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Ocean Spider House Chest"
+    },
+    {
+        "ID": 71,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Iron Knuckle Chest"
+    },
+    {
+        "ID": 72,
+        "Name": "Postman's Hat",
+        "ItemCategory": "Masks",
+        "LocationName": "Postman's Freedom Reward"
+    },
+    {
+        "ID": 73,
+        "Name": "All-Night Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "All-Night Mask Purchase"
+    },
+    {
+        "ID": 74,
+        "Name": "Blast Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Old Lady"
+    },
+    {
+        "ID": 75,
+        "Name": "Stone Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Invisible Soldier"
+    },
+    {
+        "ID": 76,
+        "Name": "Great Fairy's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Town Great Fairy"
+    },
+    {
+        "ID": 77,
+        "Name": "Keaton Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Curiosity Shop Man #1"
+    },
+    {
+        "ID": 78,
+        "Name": "Bremen Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Guru Guru"
+    },
+    {
+        "ID": 79,
+        "Name": "Bunny Hood",
+        "ItemCategory": "Masks",
+        "LocationName": "Grog"
+    },
+    {
+        "ID": 80,
+        "Name": "Don Gero's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Hungry Goron"
+    },
+    {
+        "ID": 81,
+        "Name": "Mask of Scents",
+        "ItemCategory": "Masks",
+        "LocationName": "Butler"
+    },
+    {
+        "ID": 82,
+        "Name": "Romani's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Cremia"
+    },
+    {
+        "ID": 83,
+        "Name": "Circus Leader's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Gorman"
+    },
+    {
+        "ID": 84,
+        "Name": "Kafei's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Madame Aroma in Office"
+    },
+    {
+        "ID": 85,
+        "Name": "Couple's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Anju and Kafei"
+    },
+    {
+        "ID": 86,
+        "Name": "Mask of Truth",
+        "ItemCategory": "Masks",
+        "LocationName": "Swamp Spider House Reward"
+    },
+    {
+        "ID": 87,
+        "Name": "Kamaro's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Kamaro"
+    },
+    {
+        "ID": 88,
+        "Name": "Gibdo Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Pamela's Father"
+    },
+    {
+        "ID": 89,
+        "Name": "Garo's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Gorman Bros Race"
+    },
+    {
+        "ID": 90,
+        "Name": "Captain's Hat",
+        "ItemCategory": "Masks",
+        "LocationName": "Captain Keeta's Chest"
+    },
+    {
+        "ID": 91,
+        "Name": "Giant's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Giant's Mask Chest"
+    },
+    {
+        "ID": 92,
+        "Name": "Goron Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Darmani"
+    },
+    {
+        "ID": 93,
+        "Name": "Zora Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Mikau"
+    },
+    {
+        "ID": 94,
+        "Name": "Song of Healing",
+        "ItemCategory": "Songs",
+        "LocationName": "Starting Song"
+    },
+    {
+        "ID": 95,
+        "Name": "Song of Soaring",
+        "ItemCategory": "SongOfSoaring",
+        "LocationName": "Swamp Music Statue"
+    },
+    {
+        "ID": 96,
+        "Name": "Epona's Song",
+        "ItemCategory": "Songs",
+        "LocationName": "Romani's Game"
+    },
+    {
+        "ID": 97,
+        "Name": "Song of Storms",
+        "ItemCategory": "Songs",
+        "LocationName": "Day 1 Grave Tablet"
+    },
+    {
+        "ID": 98,
+        "Name": "Sonata of Awakening",
+        "ItemCategory": "Songs",
+        "LocationName": "Imprisoned Monkey"
+    },
+    {
+        "ID": 99,
+        "Name": "Goron Lullaby",
+        "ItemCategory": "Songs",
+        "LocationName": "Baby Goron"
+    },
+    {
+        "ID": 100,
+        "Name": "New Wave Bossa Nova",
+        "ItemCategory": "Songs",
+        "LocationName": "Baby Zoras"
+    },
+    {
+        "ID": 101,
+        "Name": "Elegy of Emptiness",
+        "ItemCategory": "Songs",
+        "LocationName": "Ikana King"
+    },
+    {
+        "ID": 102,
+        "Name": "Oath to Order",
+        "ItemCategory": "Songs",
+        "LocationName": "Boss Blue Warp"
+    },
+    { "ID": 103, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 104, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 105, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 106, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 107, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 108, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 109, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 110, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 111, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 112, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 113, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 114, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 115, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 116, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 117, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 118, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 119, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 120, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 121, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 122, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 123, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 124, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 125, "Name": null, "ItemCategory": "", "LocationName": null },
+    {
+        "ID": 126,
+        "Name": "Woodfall Map",
+        "ItemCategory": "Navigation",
+        "LocationName": "Woodfall Map Chest"
+    },
+    {
+        "ID": 127,
+        "Name": "Woodfall Compass",
+        "ItemCategory": "Navigation",
+        "LocationName": "Woodfall Compass Chest"
+    },
+    {
+        "ID": 128,
+        "Name": "Woodfall Boss Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Woodfall Boss Key Chest"
+    },
+    {
+        "ID": 129,
+        "Name": "Woodfall Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Woodfall Small Key Chest"
+    },
+    {
+        "ID": 130,
+        "Name": "Snowhead Map",
+        "ItemCategory": "Navigation",
+        "LocationName": "Snowhead Map Chest"
+    },
+    {
+        "ID": 131,
+        "Name": "Snowhead Compass",
+        "ItemCategory": "Navigation",
+        "LocationName": "Snowhead Compass Chest"
+    },
+    {
+        "ID": 132,
+        "Name": "Snowhead Boss Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Snowhead Boss Key Chest"
+    },
+    {
+        "ID": 133,
+        "Name": "Snowhead Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Snowhead Block Room Chest"
+    },
+    {
+        "ID": 134,
+        "Name": "Snowhead Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Snowhead Icicle Room Chest"
+    },
+    {
+        "ID": 135,
+        "Name": "Snowhead Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Snowhead Bridge Room Chest"
+    },
+    {
+        "ID": 136,
+        "Name": "Great Bay Map",
+        "ItemCategory": "Navigation",
+        "LocationName": "Great Bay Map Chest"
+    },
+    {
+        "ID": 137,
+        "Name": "Great Bay Compass",
+        "ItemCategory": "Navigation",
+        "LocationName": "Great Bay Compass Chest"
+    },
+    {
+        "ID": 138,
+        "Name": "Great Bay Boss Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Great Bay Boss Key Chest"
+    },
+    {
+        "ID": 139,
+        "Name": "Great Bay Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Great Bay Small Key Chest"
+    },
+    {
+        "ID": 140,
+        "Name": "Stone Tower Map",
+        "ItemCategory": "Navigation",
+        "LocationName": "Stone Tower Map Chest"
+    },
+    {
+        "ID": 141,
+        "Name": "Stone Tower Compass",
+        "ItemCategory": "Navigation",
+        "LocationName": "Stone Tower Compass Chest"
+    },
+    {
+        "ID": 142,
+        "Name": "Stone Tower Boss Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Stone Tower Boss Key Chest"
+    },
+    {
+        "ID": 143,
+        "Name": "Stone Tower Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Stone Tower Armos Room Chest"
+    },
+    {
+        "ID": 144,
+        "Name": "Stone Tower Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Stone Tower Eyegore Room Chest"
+    },
+    {
+        "ID": 145,
+        "Name": "Stone Tower Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Stone Tower Updraft Room Chest"
+    },
+    {
+        "ID": 146,
+        "Name": "Stone Tower Small Key",
+        "ItemCategory": "DungeonKeys",
+        "LocationName": "Stone Tower Death Armos Maze Chest"
+    },
+    {
+        "ID": 147,
+        "Name": "Red Potion",
+        "ItemCategory": "RedPotions",
+        "LocationName": "Trading Post Red Potion"
+    },
+    {
+        "ID": 148,
+        "Name": "Green Potion",
+        "ItemCategory": "GreenPotions",
+        "LocationName": "Trading Post Green Potion"
+    },
+    {
+        "ID": 149,
+        "Name": "Hero's Shield",
+        "ItemCategory": "Shields",
+        "LocationName": "Trading Post Hero's Shield"
+    },
+    {
+        "ID": 150,
+        "Name": "Fairy",
+        "ItemCategory": "Fairy",
+        "LocationName": "Trading Post Fairy"
+    },
+    {
+        "ID": 151,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Trading Post Deku Stick"
+    },
+    {
+        "ID": 152,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Trading Post 30 Arrows"
+    },
+    {
+        "ID": 153,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Trading Post 10 Deku Nuts"
+    },
+    {
+        "ID": 154,
+        "Name": "50 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Trading Post 50 Arrows"
+    },
+    {
+        "ID": 155,
+        "Name": "Blue Potion",
+        "ItemCategory": "BluePotions",
+        "LocationName": "Witch Shop Blue Potion"
+    },
+    {
+        "ID": 156,
+        "Name": "Red Potion",
+        "ItemCategory": "RedPotions",
+        "LocationName": "Witch Shop Red Potion"
+    },
+    {
+        "ID": 157,
+        "Name": "Green Potion",
+        "ItemCategory": "GreenPotions",
+        "LocationName": "Witch Shop Green Potion"
+    },
+    {
+        "ID": 158,
+        "Name": "10 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Bomb Shop 10 Bombs"
+    },
+    {
+        "ID": 159,
+        "Name": "10 Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Bomb Shop 10 Bombchu"
+    },
+    {
+        "ID": 160,
+        "Name": "10 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Goron Shop 10 Bombs"
+    },
+    {
+        "ID": 161,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Goron Shop 10 Arrows"
+    },
+    {
+        "ID": 162,
+        "Name": "Red Potion",
+        "ItemCategory": "RedPotions",
+        "LocationName": "Goron Shop Red Potion"
+    },
+    {
+        "ID": 163,
+        "Name": "Hero's Shield",
+        "ItemCategory": "Shields",
+        "LocationName": "Zora Shop Hero's Shield"
+    },
+    {
+        "ID": 164,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Zora Shop 10 Arrows"
+    },
+    {
+        "ID": 165,
+        "Name": "Red Potion",
+        "ItemCategory": "RedPotions",
+        "LocationName": "Zora Shop Red Potion"
+    },
+    {
+        "ID": 166,
+        "Name": "Bottle: Fairy",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Fairy"
+    },
+    {
+        "ID": 167,
+        "Name": "Bottle: Deku Princess",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Deku Princess"
+    },
+    {
+        "ID": 168,
+        "Name": "Bottle: Fish",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Fish"
+    },
+    {
+        "ID": 169,
+        "Name": "Bottle: Bug",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Bug"
+    },
+    {
+        "ID": 170,
+        "Name": "Bottle: Poe",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Poe"
+    },
+    {
+        "ID": 171,
+        "Name": "Bottle: Big Poe",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Big Poe"
+    },
+    {
+        "ID": 172,
+        "Name": "Bottle: Spring Water",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Spring Water"
+    },
+    {
+        "ID": 173,
+        "Name": "Bottle: Hot Spring Water",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Hot Spring Water"
+    },
+    {
+        "ID": 174,
+        "Name": "Bottle: Zora Egg",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Zora Egg"
+    },
+    {
+        "ID": 175,
+        "Name": "Bottle: Mushroom",
+        "ItemCategory": "ScoopedItems",
+        "LocationName": "Bottle: Mushroom"
+    },
+    {
+        "ID": 176,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Lens Cave Invisible Chest"
+    },
+    {
+        "ID": 177,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Lens Cave Rock Chest"
+    },
+    {
+        "ID": 178,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Bean Grotto"
+    },
+    {
+        "ID": 179,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Hot Spring Water Grotto"
+    },
+    {
+        "ID": 180,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Day 1 Grave Bats"
+    },
+    {
+        "ID": 181,
+        "Name": "5 Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Secret Shrine Grotto"
+    },
+    {
+        "ID": 182,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Interior Lower Chest"
+    },
+    {
+        "ID": 183,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Interior Upper Chest"
+    },
+    {
+        "ID": 184,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Interior Tank Chest"
+    },
+    {
+        "ID": 185,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Pirates' Fortress Interior Guard Room Chest"
+    },
+    {
+        "ID": 186,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Cage Room Shallow Chest"
+    },
+    {
+        "ID": 187,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Cage Room Deep Chest"
+    },
+    {
+        "ID": 188,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Maze Chest"
+    },
+    {
+        "ID": 189,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pinnacle Rock Lower Chest"
+    },
+    {
+        "ID": 190,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pinnacle Rock Upper Chest"
+    },
+    {
+        "ID": 191,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Bombers' Hideout Chest"
+    },
+    {
+        "ID": 192,
+        "Name": "Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Termina Field Pillar Grotto"
+    },
+    {
+        "ID": 193,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Grass Grotto"
+    },
+    {
+        "ID": 194,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Underwater Chest"
+    },
+    {
+        "ID": 195,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Grass Chest"
+    },
+    {
+        "ID": 196,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Stump Chest"
+    },
+    {
+        "ID": 197,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Coast Grotto"
+    },
+    {
+        "ID": 198,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Zora Cape Ledge Without Tree Chest"
+    },
+    {
+        "ID": 199,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Zora Cape Ledge With Tree Chest"
+    },
+    {
+        "ID": 200,
+        "Name": "Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Zora Cape Grotto"
+    },
+    {
+        "ID": 201,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Zora Cape Underwater Chest"
+    },
+    {
+        "ID": 202,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Exterior Log Chest"
+    },
+    {
+        "ID": 203,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Exterior Sand Chest"
+    },
+    {
+        "ID": 204,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pirates' Fortress Exterior Corner Chest"
+    },
+    {
+        "ID": 205,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Path to Swamp Grotto"
+    },
+    {
+        "ID": 206,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Doggy Racetrack Roof Chest"
+    },
+    {
+        "ID": 207,
+        "Name": "5 Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Ikana Graveyard Grotto"
+    },
+    {
+        "ID": 208,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Near Swamp Spider House Grotto"
+    },
+    {
+        "ID": 209,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Behind Woodfall Owl Chest"
+    },
+    {
+        "ID": 210,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Entrance to Woodfall Chest"
+    },
+    {
+        "ID": 211,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Well Right Path Chest"
+    },
+    {
+        "ID": 212,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Well Left Path Chest"
+    },
+    {
+        "ID": 213,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Mountain Waterfall Chest"
+    },
+    {
+        "ID": 214,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Mountain Spring Grotto"
+    },
+    {
+        "ID": 215,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Path to Ikana Pillar Chest"
+    },
+    {
+        "ID": 216,
+        "Name": "Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Path to Ikana Grotto"
+    },
+    {
+        "ID": 217,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Inverted Stone Tower Right Chest"
+    },
+    {
+        "ID": 218,
+        "Name": "10 Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Inverted Stone Tower Middle Chest"
+    },
+    {
+        "ID": 219,
+        "Name": "Magic Bean",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Inverted Stone Tower Left Chest"
+    },
+    {
+        "ID": 220,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Path to Snowhead Grotto"
+    },
+    {
+        "ID": 221,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Twin Islands Cave Chest"
+    },
+    {
+        "ID": 222,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Secret Shrine Final Chest"
+    },
+    {
+        "ID": 223,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Secret Shrine Dinolfos Chest"
+    },
+    {
+        "ID": 224,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Secret Shrine Wizzrobe Chest"
+    },
+    {
+        "ID": 225,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Secret Shrine Wart Chest"
+    },
+    {
+        "ID": 226,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Secret Shrine Garo Master Chest"
+    },
+    {
+        "ID": 227,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Inn Staff Room Chest"
+    },
+    {
+        "ID": 228,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Inn Guest Room Chest"
+    },
+    {
+        "ID": 229,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Mystery Woods Grotto"
+    },
+    {
+        "ID": 230,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "East Clock Town Chest"
+    },
+    {
+        "ID": 231,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "South Clock Town Straw Roof Chest"
+    },
+    {
+        "ID": 232,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "South Clock Town Final Day Chest"
+    },
+    {
+        "ID": 233,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Bank Reward #3"
+    },
+    {
+        "ID": 234,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Clock Tower Entrance"
+    },
+    {
+        "ID": 235,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "North Clock Town Tree"
+    },
+    {
+        "ID": 236,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Path to Swamp Tree"
+    },
+    {
+        "ID": 237,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Swamp Tourist Center Roof"
+    },
+    {
+        "ID": 238,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Deku Palace West Garden"
+    },
+    {
+        "ID": 239,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Goron Village Ledge"
+    },
+    {
+        "ID": 240,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Bio Baba Grotto"
+    },
+    {
+        "ID": 241,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Lab Fish"
+    },
+    {
+        "ID": 242,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Zora Cape Like-Like"
+    },
+    {
+        "ID": 243,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Pirates' Fortress Cage"
+    },
+    {
+        "ID": 244,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Lulu's Room Ledge"
+    },
+    {
+        "ID": 245,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Path to Snowhead Pillar"
+    },
+    {
+        "ID": 246,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Great Bay Coast Ledge"
+    },
+    {
+        "ID": 247,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Ikana Canyon Ledge"
+    },
+    {
+        "ID": 248,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Ikana Castle Pillar"
+    },
+    {
+        "ID": 249,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Odolwa Heart Container"
+    },
+    {
+        "ID": 250,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Goht Heart Container"
+    },
+    {
+        "ID": 251,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Gyorg Heart Container"
+    },
+    {
+        "ID": 252,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Twinmold Heart Container"
+    },
+    {
+        "ID": 253,
+        "Name": "Map of Clock Town",
+        "ItemCategory": "Navigation",
+        "LocationName": "Clock Town Map Purchase"
+    },
+    {
+        "ID": 254,
+        "Name": "Map of Woodfall",
+        "ItemCategory": "Navigation",
+        "LocationName": "Woodfall Map Purchase"
+    },
+    {
+        "ID": 255,
+        "Name": "Map of Snowhead",
+        "ItemCategory": "Navigation",
+        "LocationName": "Snowhead Map Purchase"
+    },
+    {
+        "ID": 256,
+        "Name": "Map of Romani Ranch",
+        "ItemCategory": "Navigation",
+        "LocationName": "Romani Ranch Map Purchase"
+    },
+    {
+        "ID": 257,
+        "Name": "Map of Great Bay",
+        "ItemCategory": "Navigation",
+        "LocationName": "Great Bay Map Purchase"
+    },
+    {
+        "ID": 258,
+        "Name": "Map of Stone Tower",
+        "ItemCategory": "Navigation",
+        "LocationName": "Stone Tower Map Purchase"
+    },
+    {
+        "ID": 259,
+        "Name": "Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Goron Racetrack Grotto"
+    },
+    {
+        "ID": 260,
+        "Name": "Gold Rupee",
+        "ItemCategory": "GoldRupees",
+        "LocationName": "Canyon Scrub Trade"
+    },
+    { "ID": 261, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 262, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 263, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 264, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 265, "Name": null, "ItemCategory": "", "LocationName": null },
+    {
+        "ID": 266,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Deku Trial Bonus"
+    },
+    {
+        "ID": 267,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Goron Trial Bonus"
+    },
+    {
+        "ID": 268,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Zora Trial Bonus"
+    },
+    {
+        "ID": 269,
+        "Name": "Piece of Heart",
+        "ItemCategory": "PiecesOfHeart",
+        "LocationName": "Link Trial Bonus"
+    },
+    {
+        "ID": 270,
+        "Name": "Fierce Deity's Mask",
+        "ItemCategory": "Masks",
+        "LocationName": "Majora Child"
+    },
+    {
+        "ID": 271,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Link Trial Garo Master Chest"
+    },
+    {
+        "ID": 272,
+        "Name": "10 Bombchu",
+        "ItemCategory": "Bombchu",
+        "LocationName": "Link Trial Iron Knuckle Chest"
+    },
+    {
+        "ID": 273,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Pre-Clocktown Chest"
+    },
+    {
+        "ID": 274,
+        "Name": "Kokiri Sword",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Starting Sword"
+    },
+    {
+        "ID": 275,
+        "Name": "Hero's Shield",
+        "ItemCategory": "Shields",
+        "LocationName": "Starting Shield"
+    },
+    {
+        "ID": 276,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Starting Heart Container #1"
+    },
+    {
+        "ID": 277,
+        "Name": "Heart Container",
+        "ItemCategory": "HeartContainers",
+        "LocationName": "Starting Heart Container #2"
+    },
+    {
+        "ID": 278,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Ranch Cow #1"
+    },
+    {
+        "ID": 279,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Ranch Cow #2"
+    },
+    {
+        "ID": 280,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Ranch Cow #3"
+    },
+    {
+        "ID": 281,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Cow Beneath the Well"
+    },
+    {
+        "ID": 282,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Termina Grotto Cow #1"
+    },
+    {
+        "ID": 283,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Termina Grotto Cow #2"
+    },
+    {
+        "ID": 284,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Great Bay Coast Grotto Cow #1"
+    },
+    {
+        "ID": 285,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Great Bay Coast Grotto Cow #2"
+    },
+    {
+        "ID": 286,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Near Ceiling"
+    },
+    {
+        "ID": 287,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Gold Room Near Ceiling"
+    },
+    {
+        "ID": 288,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Monument Room Torch"
+    },
+    {
+        "ID": 289,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Gold Room Pillar"
+    },
+    {
+        "ID": 290,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Jar"
+    },
+    {
+        "ID": 291,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Grass 1"
+    },
+    {
+        "ID": 292,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Grass 2"
+    },
+    {
+        "ID": 293,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Water"
+    },
+    {
+        "ID": 294,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Lower Left Soft Soil"
+    },
+    {
+        "ID": 295,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Monument Room Crate 1"
+    },
+    {
+        "ID": 296,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Upper Soft Soil"
+    },
+    {
+        "ID": 297,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Lower Right Soft Soil"
+    },
+    {
+        "ID": 298,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Monument Room Lower Wall"
+    },
+    {
+        "ID": 299,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Monument Room On Monument"
+    },
+    {
+        "ID": 300,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Pillar"
+    },
+    {
+        "ID": 301,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Pot 1"
+    },
+    {
+        "ID": 302,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Pot 2"
+    },
+    {
+        "ID": 303,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Gold Room Hive"
+    },
+    {
+        "ID": 304,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Upper Pillar"
+    },
+    {
+        "ID": 305,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Behind Vines"
+    },
+    {
+        "ID": 306,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Tree 1"
+    },
+    {
+        "ID": 307,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Wall"
+    },
+    {
+        "ID": 308,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Hive 1"
+    },
+    {
+        "ID": 309,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Tree 2"
+    },
+    {
+        "ID": 310,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Gold Room Wall"
+    },
+    {
+        "ID": 311,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Hive"
+    },
+    {
+        "ID": 312,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Monument Room Crate 2"
+    },
+    {
+        "ID": 313,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Pot Room Hive 2"
+    },
+    {
+        "ID": 314,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Tree Room Tree 3"
+    },
+    {
+        "ID": 315,
+        "Name": "Swamp Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Swamp Skulltula Main Room Jar"
+    },
+    {
+        "ID": 316,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Storage Room Behind Boat"
+    },
+    {
+        "ID": 317,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Hole Behind Picture"
+    },
+    {
+        "ID": 318,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Hole Behind Cabinet"
+    },
+    {
+        "ID": 319,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library On Corner Bookshelf"
+    },
+    {
+        "ID": 320,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Ceiling Edge"
+    },
+    {
+        "ID": 321,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Ceiling Plank"
+    },
+    {
+        "ID": 322,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Ceiling Edge"
+    },
+    {
+        "ID": 323,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Ceiling Edge"
+    },
+    {
+        "ID": 324,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Storage Room Ceiling Web"
+    },
+    {
+        "ID": 325,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Storage Room Behind Crate"
+    },
+    {
+        "ID": 326,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Jar"
+    },
+    {
+        "ID": 327,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Entrance Right Wall"
+    },
+    {
+        "ID": 328,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Entrance Left Wall"
+    },
+    {
+        "ID": 329,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Webbed Hole"
+    },
+    {
+        "ID": 330,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Entrance Web"
+    },
+    {
+        "ID": 331,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Chandelier 1"
+    },
+    {
+        "ID": 332,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Chandelier 2"
+    },
+    {
+        "ID": 333,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Chandelier 3"
+    },
+    {
+        "ID": 334,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Behind Picture"
+    },
+    {
+        "ID": 335,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Behind Picture"
+    },
+    {
+        "ID": 336,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Behind Bookcase 1"
+    },
+    {
+        "ID": 337,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Storage Room Crate"
+    },
+    {
+        "ID": 338,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Webbed Pot"
+    },
+    {
+        "ID": 339,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Upper Pot"
+    },
+    {
+        "ID": 340,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Colored Skulls Pot"
+    },
+    {
+        "ID": 341,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Storage Room Jar"
+    },
+    {
+        "ID": 342,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Lower Pot"
+    },
+    {
+        "ID": 343,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula Library Behind Bookcase 2"
+    },
+    {
+        "ID": 344,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Behind Skull 1"
+    },
+    {
+        "ID": 345,
+        "Name": "Ocean Skulltula Spirit",
+        "ItemCategory": "SkulltulaTokens",
+        "LocationName": "Ocean Skulltula 2nd Room Behind Skull 2"
+    },
+    {
+        "ID": 346,
+        "Name": "Clock Town Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Clock Town Stray Fairy"
+    },
+    {
+        "ID": 347,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Pre-Boss Lower Right Bubble"
+    },
+    {
+        "ID": 348,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Entrance Fairy"
+    },
+    {
+        "ID": 349,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Pre-Boss Upper Left Bubble"
+    },
+    {
+        "ID": 350,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Pre-Boss Pillar Bubble"
+    },
+    {
+        "ID": 351,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Deku Baba"
+    },
+    {
+        "ID": 352,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Poison Water Bubble"
+    },
+    {
+        "ID": 353,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Main Room Bubble"
+    },
+    {
+        "ID": 354,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Skulltula"
+    },
+    {
+        "ID": 355,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Pre-Boss Upper Right Bubble"
+    },
+    {
+        "ID": 356,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Main Room Switch"
+    },
+    {
+        "ID": 357,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Entrance Platform"
+    },
+    {
+        "ID": 358,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Dark Room"
+    },
+    {
+        "ID": 359,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Jar Fairy"
+    },
+    {
+        "ID": 360,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Bridge Room Hive"
+    },
+    {
+        "ID": 361,
+        "Name": "Woodfall Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Woodfall Platform Room Hive"
+    },
+    {
+        "ID": 362,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Snow Room Bubble"
+    },
+    {
+        "ID": 363,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Ceiling Bubble"
+    },
+    {
+        "ID": 364,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Dinolfos 1"
+    },
+    {
+        "ID": 365,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Bridge Room Ledge Bubble"
+    },
+    {
+        "ID": 366,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Bridge Room Pillar Bubble"
+    },
+    {
+        "ID": 367,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Dinolfos 2"
+    },
+    {
+        "ID": 368,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Map Room Fairy"
+    },
+    {
+        "ID": 369,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Map Room Ledge"
+    },
+    {
+        "ID": 370,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Basement"
+    },
+    {
+        "ID": 371,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Twin Block"
+    },
+    {
+        "ID": 372,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Icicle Room Wall"
+    },
+    {
+        "ID": 373,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Main Room Wall"
+    },
+    {
+        "ID": 374,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Pillar Freezards"
+    },
+    {
+        "ID": 375,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Ice Puzzle"
+    },
+    {
+        "ID": 376,
+        "Name": "Snowhead Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Snowhead Crate"
+    },
+    {
+        "ID": 377,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Skulltula"
+    },
+    {
+        "ID": 378,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Pre-Boss Room Underwater Bubble"
+    },
+    {
+        "ID": 379,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Water Control Room Underwater Bubble"
+    },
+    {
+        "ID": 380,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Pre-Boss Room Bubble"
+    },
+    {
+        "ID": 381,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Waterwheel Room Upper"
+    },
+    {
+        "ID": 382,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Green Valve"
+    },
+    {
+        "ID": 383,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Seesaw Room"
+    },
+    {
+        "ID": 384,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Waterwheel Room Lower"
+    },
+    {
+        "ID": 385,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Entrance Torches"
+    },
+    {
+        "ID": 386,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Bio Babas"
+    },
+    {
+        "ID": 387,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Underwater Barrel"
+    },
+    {
+        "ID": 388,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Whirlpool Jar"
+    },
+    {
+        "ID": 389,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Whirlpool Barrel"
+    },
+    {
+        "ID": 390,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Dexihands Jar"
+    },
+    {
+        "ID": 391,
+        "Name": "Great Bay Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Great Bay Ledge Jar"
+    },
+    {
+        "ID": 392,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Mirror Sun Block"
+    },
+    {
+        "ID": 393,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Eyegore"
+    },
+    {
+        "ID": 394,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Lava Room Fire Ring"
+    },
+    {
+        "ID": 395,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Updraft Fire Ring"
+    },
+    {
+        "ID": 396,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Mirror Sun Switch"
+    },
+    {
+        "ID": 397,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Boss Warp"
+    },
+    {
+        "ID": 398,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Wizzrobe"
+    },
+    {
+        "ID": 399,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Death Armos"
+    },
+    {
+        "ID": 400,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Updraft Frozen Eye"
+    },
+    {
+        "ID": 401,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Thin Bridge"
+    },
+    {
+        "ID": 402,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Basement Ledge"
+    },
+    {
+        "ID": 403,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Statue Eye"
+    },
+    {
+        "ID": 404,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Underwater"
+    },
+    {
+        "ID": 405,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Bridge Crystal"
+    },
+    {
+        "ID": 406,
+        "Name": "Stone Tower Stray Fairy",
+        "ItemCategory": "StrayFairies",
+        "LocationName": "Stone Tower Lava Room Ledge"
+    },
+    {
+        "ID": 407,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Lottery"
+    },
+    {
+        "ID": 408,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Bank Reward #2"
+    },
+    {
+        "ID": 409,
+        "Name": "Chateau Romani",
+        "ItemCategory": "Chateau",
+        "LocationName": "Milk Bar Chateau"
+    },
+    {
+        "ID": 410,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Milk Bar Milk"
+    },
+    {
+        "ID": 411,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Deku Playground Any Day"
+    },
+    {
+        "ID": 412,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Honey and Darling Any Day"
+    },
+    {
+        "ID": 413,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Kotake Mushroom Sale"
+    },
+    {
+        "ID": 414,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pictograph Contest Standard Photo"
+    },
+    {
+        "ID": 415,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Pictograph Contest Good Photo"
+    },
+    {
+        "ID": 416,
+        "Name": "Magic Bean",
+        "ItemCategory": "MainInventory",
+        "LocationName": "Swamp Scrub Purchase"
+    },
+    {
+        "ID": 417,
+        "Name": "Green Potion",
+        "ItemCategory": "GreenPotions",
+        "LocationName": "Ocean Scrub Purchase"
+    },
+    {
+        "ID": 418,
+        "Name": "Blue Potion",
+        "ItemCategory": "BluePotions",
+        "LocationName": "Canyon Scrub Purchase"
+    },
+    {
+        "ID": 419,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Zora Hall Stage Lights"
+    },
+    {
+        "ID": 420,
+        "Name": "Milk",
+        "ItemCategory": "Milk",
+        "LocationName": "Gorman Bros Milk Purchase"
+    },
+    {
+        "ID": 421,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Ocean Spider House Day 2 Reward"
+    },
+    {
+        "ID": 422,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Ocean Spider House Day 3 Reward"
+    },
+    {
+        "ID": 423,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Bad Pictograph of Lulu"
+    },
+    {
+        "ID": 424,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Good Pictograph of Lulu"
+    },
+    {
+        "ID": 425,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Treasure Chest Game Human"
+    },
+    {
+        "ID": 426,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Treasure Chest Game Zora"
+    },
+    {
+        "ID": 427,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Treasure Chest Game Deku"
+    },
+    {
+        "ID": 428,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Curiosity Shop Blue Rupee"
+    },
+    {
+        "ID": 429,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Curiosity Shop Red Rupee"
+    },
+    {
+        "ID": 430,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Curiosity Shop Purple Rupee"
+    },
+    {
+        "ID": 431,
+        "Name": "Gold Rupee",
+        "ItemCategory": "GoldRupees",
+        "LocationName": "Curiosity Shop Gold Rupee"
+    },
+    {
+        "ID": 432,
+        "Name": "Seahorse",
+        "ItemCategory": "Seahorse",
+        "LocationName": "Fisherman Pictograph"
+    },
+    {
+        "ID": 433,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana Castle Courtyard Grass"
+    },
+    {
+        "ID": 434,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana Castle Courtyard Grass 2"
+    },
+    {
+        "ID": 435,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Night 1 Grave Pot"
+    },
+    {
+        "ID": 436,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Night 2 Grave Pot"
+    },
+    {
+        "ID": 437,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Night 1 Grave Pot 2"
+    },
+    {
+        "ID": 438,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Cucco Shack Crate"
+    },
+    {
+        "ID": 439,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Dampe's Basement Pot"
+    },
+    {
+        "ID": 440,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Dampe's Basement Pot 2"
+    },
+    {
+        "ID": 441,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Dampe's Basement Pot 3"
+    },
+    {
+        "ID": 442,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Dampe's Basement Pot 4"
+    },
+    {
+        "ID": 443,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Goron Village Small Snowball"
+    },
+    {
+        "ID": 444,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Goron Village Small Snowball 2"
+    },
+    {
+        "ID": 445,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Coast Pot"
+    },
+    {
+        "ID": 446,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Coast Pot 2"
+    },
+    {
+        "ID": 447,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Coast Pot 3"
+    },
+    {
+        "ID": 448,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Coast Pot 4"
+    },
+    {
+        "ID": 449,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Temple Red Valve Barrel"
+    },
+    {
+        "ID": 450,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana King Pot"
+    },
+    {
+        "ID": 451,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana King Pot 2"
+    },
+    {
+        "ID": 452,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana King Entry Pot"
+    },
+    {
+        "ID": 453,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana King Entry Pot 2"
+    },
+    {
+        "ID": 454,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana Graveyard Grass"
+    },
+    {
+        "ID": 455,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Oceanside Spider House Entrance Pot"
+    },
+    {
+        "ID": 456,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Oceanside Spider House Entrance Pot 2"
+    },
+    {
+        "ID": 457,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Sewer Gate Pot"
+    },
+    {
+        "ID": 458,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Guarded Egg Pot"
+    },
+    {
+        "ID": 459,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Barrel Maze Egg Pot"
+    },
+    {
+        "ID": 460,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Sewer Exit Pot"
+    },
+    {
+        "ID": 461,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Secret Shrine Underwater Pot"
+    },
+    {
+        "ID": 462,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Secret Shrine Underwater Pot 2"
+    },
+    {
+        "ID": 463,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Snowhead Temple Icicle Room Snowball"
+    },
+    {
+        "ID": 464,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Snowhead Temple Icicle Room Snowball 2"
+    },
+    {
+        "ID": 465,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Stone Tower Upper Scarecrow Pot"
+    },
+    {
+        "ID": 466,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Stone Tower Upper Scarecrow Pot 2"
+    },
+    {
+        "ID": 467,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Coast Pot 5"
+    },
+    {
+        "ID": 468,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Temple Seesaw Room Pot"
+    },
+    {
+        "ID": 469,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Great Bay Temple Green Pump Barrel"
+    },
+    {
+        "ID": 470,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana Canyon Grass"
+    },
+    {
+        "ID": 471,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Milk Road Grass"
+    },
+    {
+        "ID": 472,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Mountain Village Spring Snowball"
+    },
+    {
+        "ID": 473,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Mountain Village Winter Small Snowball"
+    },
+    {
+        "ID": 474,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Lone Guard Egg Pot"
+    },
+    {
+        "ID": 475,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Pirates' Fortress Cage Pot"
+    },
+    {
+        "ID": 476,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ranch Crate"
+    },
+    {
+        "ID": 477,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Snowhead Small Snowball"
+    },
+    {
+        "ID": 478,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Stone Tower Owl Pot"
+    },
+    {
+        "ID": 479,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Zora Cape Owl Pot"
+    },
+    {
+        "ID": 480,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Observatory Scarecrow Pot"
+    },
+    {
+        "ID": 481,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Observatory Scarecrow Pot 2"
+    },
+    {
+        "ID": 482,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Item"
+    },
+    {
+        "ID": 483,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Item 2"
+    },
+    {
+        "ID": 484,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Item 3"
+    },
+    {
+        "ID": 485,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Item 4"
+    },
+    {
+        "ID": 486,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Item 5"
+    },
+    {
+        "ID": 487,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Doggy Racetrack Pot"
+    },
+    {
+        "ID": 488,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Doggy Racetrack Pot 2"
+    },
+    {
+        "ID": 489,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Doggy Racetrack Pot 3"
+    },
+    {
+        "ID": 490,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Doggy Racetrack Pot 4"
+    },
+    {
+        "ID": 491,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Goron Village Large Snowball"
+    },
+    {
+        "ID": 492,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Goron Village Large Snowball 2"
+    },
+    {
+        "ID": 493,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Goron Village Large Snowball 3"
+    },
+    {
+        "ID": 494,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Great Bay Coast Ledge Pot"
+    },
+    {
+        "ID": 495,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Great Bay Coast Ledge Pot 2"
+    },
+    {
+        "ID": 496,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Great Bay Coast Ledge Pot 3"
+    },
+    {
+        "ID": 497,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Great Bay Temple Water Control Room Item"
+    },
+    {
+        "ID": 498,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Great Bay Temple Water Control Room Item 2"
+    },
+    {
+        "ID": 499,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Bio Baba Grotto Hive"
+    },
+    {
+        "ID": 500,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Laundry Pool Crate"
+    },
+    {
+        "ID": 501,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Mountain Village Day 3 Snowball"
+    },
+    {
+        "ID": 502,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Mountain Village Day 2 Snowball"
+    },
+    {
+        "ID": 503,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Twin Islands Item"
+    },
+    {
+        "ID": 504,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Twin Islands Item 2"
+    },
+    {
+        "ID": 505,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Twin Islands Item 3"
+    },
+    {
+        "ID": 506,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Twin Islands Item 4"
+    },
+    {
+        "ID": 507,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Barrel Maze Egg Pot 2"
+    },
+    {
+        "ID": 508,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Sewer Exit Barrel"
+    },
+    {
+        "ID": 509,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Sewer Exit Barrel 2"
+    },
+    {
+        "ID": 510,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Sewer Exit Barrel 3"
+    },
+    {
+        "ID": 511,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Pirates' Fortress Cage Room Barrel"
+    },
+    {
+        "ID": 512,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ranch Barn Hay Item"
+    },
+    {
+        "ID": 513,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ranch Barn Hay Item 2"
+    },
+    {
+        "ID": 514,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Icicle Room Snowball 3"
+    },
+    {
+        "ID": 515,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Icicle Room Snowball 4"
+    },
+    {
+        "ID": 516,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Icicle Room Snowball 5"
+    },
+    {
+        "ID": 517,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Elevator Room Crate"
+    },
+    {
+        "ID": 518,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Elevator Room Crate 2"
+    },
+    {
+        "ID": 519,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Elevator Room Crate 3"
+    },
+    {
+        "ID": 520,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Elevator Room Crate 4"
+    },
+    {
+        "ID": 521,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Elevator Room Crate 5"
+    },
+    {
+        "ID": 522,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Safety Bridge Pot"
+    },
+    {
+        "ID": 523,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Snowhead Temple Safety Bridge Pot 2"
+    },
+    {
+        "ID": 524,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Cleared Swamp Potion Shop Pot"
+    },
+    {
+        "ID": 525,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swamp Near Frog Item"
+    },
+    {
+        "ID": 526,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swamp Near Frog Item 2"
+    },
+    {
+        "ID": 527,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Potion Shop Pot"
+    },
+    {
+        "ID": 528,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item"
+    },
+    {
+        "ID": 529,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item 2"
+    },
+    {
+        "ID": 530,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item"
+    },
+    {
+        "ID": 531,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 2"
+    },
+    {
+        "ID": 532,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 3"
+    },
+    {
+        "ID": 533,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 4"
+    },
+    {
+        "ID": 534,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 5"
+    },
+    {
+        "ID": 535,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 6"
+    },
+    {
+        "ID": 536,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 7"
+    },
+    {
+        "ID": 537,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Stone Tower Temple Thin Bridge Item 8"
+    },
+    {
+        "ID": 538,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Dexihand Item"
+    },
+    {
+        "ID": 539,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Closest Item"
+    },
+    {
+        "ID": 540,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss 2nd Closest Item"
+    },
+    {
+        "ID": 541,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Item"
+    },
+    {
+        "ID": 542,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Item 2"
+    },
+    {
+        "ID": 543,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Item 3"
+    },
+    {
+        "ID": 544,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Furthest Item"
+    },
+    {
+        "ID": 545,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Furthest Item 2"
+    },
+    {
+        "ID": 546,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss 2nd Furthest Item"
+    },
+    {
+        "ID": 547,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss 2nd Furthest Item 2"
+    },
+    {
+        "ID": 548,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss Closest Item 2"
+    },
+    {
+        "ID": 549,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Inverted Stone Tower Temple Pre-Boss 2nd Closest Item 2"
+    },
+    {
+        "ID": 550,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman's School Pot"
+    },
+    {
+        "ID": 551,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman's School Pot 2"
+    },
+    {
+        "ID": 552,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman's School Pot 3"
+    },
+    {
+        "ID": 553,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman's School Pot 4"
+    },
+    {
+        "ID": 554,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman's School Pot 5"
+    },
+    {
+        "ID": 555,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Item"
+    },
+    {
+        "ID": 556,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Entrance Hive"
+    },
+    {
+        "ID": 557,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Gekko Room Pot"
+    },
+    {
+        "ID": 558,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Gekko Room Pot 2"
+    },
+    {
+        "ID": 559,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Gekko Room Pot 3"
+    },
+    {
+        "ID": 560,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Gekko Room Pot 4"
+    },
+    {
+        "ID": 561,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Platform Item"
+    },
+    {
+        "ID": 562,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Platform Item 2"
+    },
+    {
+        "ID": 563,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Platform Item 3"
+    },
+    {
+        "ID": 564,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Platform Item 4"
+    },
+    {
+        "ID": 565,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Well Left Path Pot"
+    },
+    {
+        "ID": 566,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Well Left Path Pot 2"
+    },
+    {
+        "ID": 567,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Well Left Path Pot 3"
+    },
+    {
+        "ID": 568,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Well Left Path Pot 4"
+    },
+    {
+        "ID": 569,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Well Left Path Pot 5"
+    },
+    {
+        "ID": 570,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Goron Village Small Snowball 3"
+    },
+    {
+        "ID": 571,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Goron Village Small Snowball 4"
+    },
+    {
+        "ID": 572,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Great Bay Coast Pot 6"
+    },
+    {
+        "ID": 573,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Great Bay Temple Red Valve Barrel 2"
+    },
+    {
+        "ID": 574,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Great Bay Temple Green Pump Barrel 2"
+    },
+    {
+        "ID": 575,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Ikana Canyon Grass 2"
+    },
+    {
+        "ID": 576,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Mountain Village Spring Snowball 2"
+    },
+    {
+        "ID": 577,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Mountain Village Winter Small Snowball 2"
+    },
+    {
+        "ID": 578,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Snowhead Small Snowball 2"
+    },
+    {
+        "ID": 579,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Stone Tower Owl Pot 2"
+    },
+    {
+        "ID": 580,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Inverted Stone Tower Pot"
+    },
+    {
+        "ID": 581,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Zora Cape Owl Pot 2"
+    },
+    {
+        "ID": 582,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Ikana Castle Left Staircase Pot"
+    },
+    {
+        "ID": 583,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Goron Village Small Snowball 5"
+    },
+    {
+        "ID": 584,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Goron Village Small Snowball 6"
+    },
+    {
+        "ID": 585,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Pirates' Fortress Sewer Exit Pot 2"
+    },
+    {
+        "ID": 586,
+        "Name": "10 Deku Nuts",
+        "ItemCategory": "DekuNuts",
+        "LocationName": "Woodfall Pot"
+    },
+    {
+        "ID": 587,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Shrine Pot"
+    },
+    {
+        "ID": 588,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Shrine Pot 2"
+    },
+    {
+        "ID": 589,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Shrine Pot 3"
+    },
+    {
+        "ID": 590,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Shrine Pot 4"
+    },
+    {
+        "ID": 591,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Shrine Pot 5"
+    },
+    {
+        "ID": 592,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Village Small Snowball 7"
+    },
+    {
+        "ID": 593,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Goron Village Small Snowball 8"
+    },
+    {
+        "ID": 594,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Cleared Swamp Owl Grass"
+    },
+    {
+        "ID": 595,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Southern Swamp Owl Grass"
+    },
+    {
+        "ID": 596,
+        "Name": "Deku Stick",
+        "ItemCategory": "DekuSticks",
+        "LocationName": "Woodfall Pot 2"
+    },
+    {
+        "ID": 597,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Dampe's Basement Pot 5"
+    },
+    {
+        "ID": 598,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Dampe's Basement Pot 6"
+    },
+    {
+        "ID": 599,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Dampe's Basement Pot 7"
+    },
+    {
+        "ID": 600,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 6"
+    },
+    {
+        "ID": 601,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 7"
+    },
+    {
+        "ID": 602,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 8"
+    },
+    {
+        "ID": 603,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 9"
+    },
+    {
+        "ID": 604,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 10"
+    },
+    {
+        "ID": 605,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 11"
+    },
+    {
+        "ID": 606,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 12"
+    },
+    {
+        "ID": 607,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 13"
+    },
+    {
+        "ID": 608,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 14"
+    },
+    {
+        "ID": 609,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Out of Bounds Item"
+    },
+    {
+        "ID": 610,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 15"
+    },
+    {
+        "ID": 611,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 16"
+    },
+    {
+        "ID": 612,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Item 17"
+    },
+    {
+        "ID": 613,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item"
+    },
+    {
+        "ID": 614,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item 2"
+    },
+    {
+        "ID": 615,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item 3"
+    },
+    {
+        "ID": 616,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item 4"
+    },
+    {
+        "ID": 617,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item 5"
+    },
+    {
+        "ID": 618,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Pillar Item 6"
+    },
+    {
+        "ID": 619,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item"
+    },
+    {
+        "ID": 620,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item 2"
+    },
+    {
+        "ID": 621,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item 3"
+    },
+    {
+        "ID": 622,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item 4"
+    },
+    {
+        "ID": 623,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item 5"
+    },
+    {
+        "ID": 624,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race River Item 6"
+    },
+    {
+        "ID": 625,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item"
+    },
+    {
+        "ID": 626,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item 2"
+    },
+    {
+        "ID": 627,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item 3"
+    },
+    {
+        "ID": 628,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item 4"
+    },
+    {
+        "ID": 629,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item 5"
+    },
+    {
+        "ID": 630,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Right Path Item 6"
+    },
+    {
+        "ID": 631,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item"
+    },
+    {
+        "ID": 632,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 2"
+    },
+    {
+        "ID": 633,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 3"
+    },
+    {
+        "ID": 634,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 4"
+    },
+    {
+        "ID": 635,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 5"
+    },
+    {
+        "ID": 636,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 6"
+    },
+    {
+        "ID": 637,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 7"
+    },
+    {
+        "ID": 638,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 8"
+    },
+    {
+        "ID": 639,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 9"
+    },
+    {
+        "ID": 640,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Final Room Item 10"
+    },
+    {
+        "ID": 641,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Butler Race Dual Pot"
+    },
+    {
+        "ID": 642,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Crate"
+    },
+    {
+        "ID": 643,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Great Bay Temple Water Control Room Item 3"
+    },
+    {
+        "ID": 644,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Great Bay Temple Water Control Room Item 4"
+    },
+    {
+        "ID": 645,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Grass 2"
+    },
+    {
+        "ID": 646,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Potion Shop Item"
+    },
+    {
+        "ID": 647,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Cage Room Barrel 2"
+    },
+    {
+        "ID": 648,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Cage Room Barrel 3"
+    },
+    {
+        "ID": 649,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Cage Room Barrel 4"
+    },
+    {
+        "ID": 650,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Cage Room Barrel 5"
+    },
+    {
+        "ID": 651,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item"
+    },
+    {
+        "ID": 652,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 2"
+    },
+    {
+        "ID": 653,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 3"
+    },
+    {
+        "ID": 654,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 4"
+    },
+    {
+        "ID": 655,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 5"
+    },
+    {
+        "ID": 656,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 6"
+    },
+    {
+        "ID": 657,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 7"
+    },
+    {
+        "ID": 658,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 8"
+    },
+    {
+        "ID": 659,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 9"
+    },
+    {
+        "ID": 660,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 10"
+    },
+    {
+        "ID": 661,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 11"
+    },
+    {
+        "ID": 662,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 12"
+    },
+    {
+        "ID": 663,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 13"
+    },
+    {
+        "ID": 664,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 14"
+    },
+    {
+        "ID": 665,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 15"
+    },
+    {
+        "ID": 666,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 16"
+    },
+    {
+        "ID": 667,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Secret Shrine Floating Item 17"
+    },
+    {
+        "ID": 668,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cleared Swamp Potion Shop Pot 2"
+    },
+    {
+        "ID": 669,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Potion Shop Pot 2"
+    },
+    {
+        "ID": 670,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item 3"
+    },
+    {
+        "ID": 671,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item 4"
+    },
+    {
+        "ID": 672,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item 5"
+    },
+    {
+        "ID": 673,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Inverted Stone Tower Temple Dexihand Item 2"
+    },
+    {
+        "ID": 674,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Clock Tower Rooftop Pot"
+    },
+    {
+        "ID": 675,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Clock Tower Rooftop Pot 2"
+    },
+    {
+        "ID": 676,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Clock Tower Rooftop Pot 3"
+    },
+    {
+        "ID": 677,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Clock Tower Rooftop Pot 4"
+    },
+    {
+        "ID": 678,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot"
+    },
+    {
+        "ID": 679,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 2"
+    },
+    {
+        "ID": 680,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 3"
+    },
+    {
+        "ID": 681,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 4"
+    },
+    {
+        "ID": 682,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 5"
+    },
+    {
+        "ID": 683,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 6"
+    },
+    {
+        "ID": 684,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 7"
+    },
+    {
+        "ID": 685,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 8"
+    },
+    {
+        "ID": 686,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 9"
+    },
+    {
+        "ID": 687,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 10"
+    },
+    {
+        "ID": 688,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 11"
+    },
+    {
+        "ID": 689,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 12"
+    },
+    {
+        "ID": 690,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 13"
+    },
+    {
+        "ID": 691,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 14"
+    },
+    {
+        "ID": 692,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 15"
+    },
+    {
+        "ID": 693,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 16"
+    },
+    {
+        "ID": 694,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 17"
+    },
+    {
+        "ID": 695,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 18"
+    },
+    {
+        "ID": 696,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 19"
+    },
+    {
+        "ID": 697,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 20"
+    },
+    {
+        "ID": 698,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 21"
+    },
+    {
+        "ID": 699,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 22"
+    },
+    {
+        "ID": 700,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 23"
+    },
+    {
+        "ID": 701,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 24"
+    },
+    {
+        "ID": 702,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 25"
+    },
+    {
+        "ID": 703,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 26"
+    },
+    {
+        "ID": 704,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 27"
+    },
+    {
+        "ID": 705,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 6"
+    },
+    {
+        "ID": 706,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 7"
+    },
+    {
+        "ID": 707,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 8"
+    },
+    {
+        "ID": 708,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 9"
+    },
+    {
+        "ID": 709,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Great Bay Coast Pot 7"
+    },
+    {
+        "ID": 710,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Great Bay Temple Red Valve Crate"
+    },
+    {
+        "ID": 711,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana King Pot 3"
+    },
+    {
+        "ID": 712,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Canyon Grass 3"
+    },
+    {
+        "ID": 713,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Milk Road Grass 2"
+    },
+    {
+        "ID": 714,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Spring Snowball 3"
+    },
+    {
+        "ID": 715,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Graveyard Snowball"
+    },
+    {
+        "ID": 716,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Graveyard Snowball 2"
+    },
+    {
+        "ID": 717,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Winter Small Snowball 3"
+    },
+    {
+        "ID": 718,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Small Snowball 3"
+    },
+    {
+        "ID": 719,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Owl Pot 3"
+    },
+    {
+        "ID": 720,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Inverted Stone Tower Pot 2"
+    },
+    {
+        "ID": 721,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Link Trial Pot"
+    },
+    {
+        "ID": 722,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Link Trial Pot 2"
+    },
+    {
+        "ID": 723,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Link Trial Pot 3"
+    },
+    {
+        "ID": 724,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Link Trial Pot 4"
+    },
+    {
+        "ID": 725,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Zora Cape Owl Pot 3"
+    },
+    {
+        "ID": 726,
+        "Name": "Purple Rupee",
+        "ItemCategory": "PurpleRupees",
+        "LocationName": "Dampe's Basement Pot 8"
+    },
+    {
+        "ID": 727,
+        "Name": "Recovery Heart",
+        "ItemCategory": "RecoveryHearts",
+        "LocationName": "Pirates' Fortress Item"
+    },
+    {
+        "ID": 728,
+        "Name": "Recovery Heart",
+        "ItemCategory": "RecoveryHearts",
+        "LocationName": "Pirates' Fortress Item 2"
+    },
+    {
+        "ID": 729,
+        "Name": "Recovery Heart",
+        "ItemCategory": "RecoveryHearts",
+        "LocationName": "Pirates' Fortress Item 3"
+    },
+    {
+        "ID": 730,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Butler Race Pillar Item 7"
+    },
+    {
+        "ID": 731,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Butler Race Pillar Item 8"
+    },
+    {
+        "ID": 732,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Temple Water Control Room Item 5"
+    },
+    {
+        "ID": 733,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Temple Dexihand Item"
+    },
+    {
+        "ID": 734,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Temple Dexihand Item 2"
+    },
+    {
+        "ID": 735,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Temple Green Pump Item"
+    },
+    {
+        "ID": 736,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Temple Green Pump Item 2"
+    },
+    {
+        "ID": 737,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Laundry Pool Item"
+    },
+    {
+        "ID": 738,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Laundry Pool Item 2"
+    },
+    {
+        "ID": 739,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Laundry Pool Item 3"
+    },
+    {
+        "ID": 740,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Mountain Village Spring Stair Item"
+    },
+    {
+        "ID": 741,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Snowhead Temple Icicle Room Frozen Item"
+    },
+    {
+        "ID": 742,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Snowhead Temple Icicle Room Frozen Item 2"
+    },
+    {
+        "ID": 743,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Snowhead Temple Icicle Room Frozen Item 3"
+    },
+    {
+        "ID": 744,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Swamp Near Frog Hive"
+    },
+    {
+        "ID": 745,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Stone Tower Temple Lava Room Item 6"
+    },
+    {
+        "ID": 746,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Stone Tower Temple Eyegore Room Item"
+    },
+    {
+        "ID": 747,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Stone Tower Temple Mirror Room Crate"
+    },
+    {
+        "ID": 748,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Stone Tower Temple Mirror Room Crate 2"
+    },
+    {
+        "ID": 749,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Stone Tower Temple Eyegore Room Item 2"
+    },
+    {
+        "ID": 750,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Inverted Stone Tower Temple Dexihand Item 3"
+    },
+    {
+        "ID": 751,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Inverted Stone Tower Temple Updraft Room Item"
+    },
+    {
+        "ID": 752,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Inverted Stone Tower Temple Updraft Room Item 2"
+    },
+    {
+        "ID": 753,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Pillar Item"
+    },
+    {
+        "ID": 754,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Left Pillar Item"
+    },
+    {
+        "ID": 755,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Woodfall Temple Pre-Boss Right Pillar Item"
+    },
+    {
+        "ID": 756,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Castle Courtyard Grass 3"
+    },
+    {
+        "ID": 757,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Castle Courtyard Grass 4"
+    },
+    {
+        "ID": 758,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Castle Fire Ceiling Room Pot"
+    },
+    {
+        "ID": 759,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Castle Hole Room Pot"
+    },
+    {
+        "ID": 760,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Castle Hole Room Pot 2"
+    },
+    {
+        "ID": 761,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Observatory Balloon Pot"
+    },
+    {
+        "ID": 762,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Observatory Balloon Pot 2"
+    },
+    {
+        "ID": 763,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Observatory Scarecrow Pot 3"
+    },
+    {
+        "ID": 764,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Night 2 Grave Pot 2"
+    },
+    {
+        "ID": 765,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Deku Palace Pot"
+    },
+    {
+        "ID": 766,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Deku Palace Pot 2"
+    },
+    {
+        "ID": 767,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 28"
+    },
+    {
+        "ID": 768,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 29"
+    },
+    {
+        "ID": 769,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Racetrack Pot 30"
+    },
+    {
+        "ID": 770,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 10"
+    },
+    {
+        "ID": 771,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Shrine Pot 11"
+    },
+    {
+        "ID": 772,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Village Large Snowball 4"
+    },
+    {
+        "ID": 773,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Village Large Snowball 5"
+    },
+    {
+        "ID": 774,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Village Large Snowball 6"
+    },
+    {
+        "ID": 775,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Village Small Snowball 9"
+    },
+    {
+        "ID": 776,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Goron Village Small Snowball 10"
+    },
+    {
+        "ID": 777,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana King Entry Pot 3"
+    },
+    {
+        "ID": 778,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Graveyard Grass 3"
+    },
+    {
+        "ID": 779,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Winter Small Snowball 4"
+    },
+    {
+        "ID": 780,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Winter Small Snowball 5"
+    },
+    {
+        "ID": 781,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Day 1 Snowball"
+    },
+    {
+        "ID": 782,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Mountain Village Day 2 Snowball 2"
+    },
+    {
+        "ID": 783,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Oceanside Spider House Main Room Pot"
+    },
+    {
+        "ID": 784,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Oceanside Spider House Entrance Pot 3"
+    },
+    {
+        "ID": 785,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Oceanside Spider House Main Room Pot 2"
+    },
+    {
+        "ID": 786,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Oceanside Spider House Storage Room Pot"
+    },
+    {
+        "ID": 787,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 3 Snowball"
+    },
+    {
+        "ID": 788,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 3 Snowball 2"
+    },
+    {
+        "ID": 789,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 3 Snowball 3"
+    },
+    {
+        "ID": 790,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 3 Snowball 4"
+    },
+    {
+        "ID": 791,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 3 Snowball 5"
+    },
+    {
+        "ID": 792,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 2 Snowball"
+    },
+    {
+        "ID": 793,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 2 Snowball 2"
+    },
+    {
+        "ID": 794,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 2 Snowball 3"
+    },
+    {
+        "ID": 795,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 2 Snowball 4"
+    },
+    {
+        "ID": 796,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 1 Snowball"
+    },
+    {
+        "ID": 797,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 1 Snowball 2"
+    },
+    {
+        "ID": 798,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 1 Snowball 3"
+    },
+    {
+        "ID": 799,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 1 Snowball 4"
+    },
+    {
+        "ID": 800,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Day 1 Snowball 5"
+    },
+    {
+        "ID": 801,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Small Snowball"
+    },
+    {
+        "ID": 802,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Small Snowball 2"
+    },
+    {
+        "ID": 803,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Twin Islands Ramp Snowball"
+    },
+    {
+        "ID": 804,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Mountain Village Small Snowball"
+    },
+    {
+        "ID": 805,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Large Snowball"
+    },
+    {
+        "ID": 806,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Large Snowball 2"
+    },
+    {
+        "ID": 807,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Large Snowball 3"
+    },
+    {
+        "ID": 808,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Large Snowball 4"
+    },
+    {
+        "ID": 809,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Pinnacle Rock Pot"
+    },
+    {
+        "ID": 810,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Pinnacle Rock Pot 2"
+    },
+    {
+        "ID": 811,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Pinnacle Rock Pot 3"
+    },
+    {
+        "ID": 812,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Pinnacle Rock Pot 4"
+    },
+    {
+        "ID": 813,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Secret Shrine Underwater Pot 3"
+    },
+    {
+        "ID": 814,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Secret Shrine Underwater Pot 4"
+    },
+    {
+        "ID": 815,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball"
+    },
+    {
+        "ID": 816,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball 2"
+    },
+    {
+        "ID": 817,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball 3"
+    },
+    {
+        "ID": 818,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball 4"
+    },
+    {
+        "ID": 819,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball 5"
+    },
+    {
+        "ID": 820,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Snowhead Large Snowball 6"
+    },
+    {
+        "ID": 821,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Lower Scarecrow Pot"
+    },
+    {
+        "ID": 822,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Lower Scarecrow Pot 2"
+    },
+    {
+        "ID": 823,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Upper Scarecrow Pot 3"
+    },
+    {
+        "ID": 824,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Upper Scarecrow Pot 4"
+    },
+    {
+        "ID": 825,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Stone Tower Lower Scarecrow Pot 3"
+    },
+    {
+        "ID": 826,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Zora Cape Waterfall Pot"
+    },
+    {
+        "ID": 827,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ranch Fence Item"
+    },
+    {
+        "ID": 828,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ranch Fence Item 2"
+    },
+    {
+        "ID": 829,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ranch Fence Item 3"
+    },
+    {
+        "ID": 830,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ranch Fence Item 4"
+    },
+    {
+        "ID": 831,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ranch Fence Item 5"
+    },
+    {
+        "ID": 832,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ranch Fence Item 6"
+    },
+    {
+        "ID": 833,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Above Cow Grotto Invisible Item"
+    },
+    {
+        "ID": 834,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Invisible Item 2"
+    },
+    {
+        "ID": 835,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Invisible Item 3"
+    },
+    {
+        "ID": 836,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Invisible Item 4"
+    },
+    {
+        "ID": 837,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Invisible Item 5"
+    },
+    {
+        "ID": 838,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Invisible Item 6"
+    },
+    {
+        "ID": 839,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Invisible Item 7"
+    },
+    {
+        "ID": 840,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Invisible Item 8"
+    },
+    {
+        "ID": 841,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Northern Ramp Invisible Item"
+    },
+    {
+        "ID": 842,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Invisible Item 10"
+    },
+    {
+        "ID": 843,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Invisible Item 11"
+    },
+    {
+        "ID": 844,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Invisible Item"
+    },
+    {
+        "ID": 845,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Invisible Item 2"
+    },
+    {
+        "ID": 846,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Invisible Item 3"
+    },
+    {
+        "ID": 847,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swamp Spider House Invisible Item 4"
+    },
+    {
+        "ID": 848,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Swamp Spider House Invisible Item 5"
+    },
+    {
+        "ID": 849,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Tree Item"
+    },
+    {
+        "ID": 850,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Pillar Spawned Item"
+    },
+    {
+        "ID": 851,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Telescope Guay"
+    },
+    {
+        "ID": 852,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swordsman School Gong"
+    },
+    {
+        "ID": 853,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Bean Grotto Soft Soil"
+    },
+    {
+        "ID": 854,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Palace Soft Soil"
+    },
+    {
+        "ID": 855,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Doggy Racetrack Soft Soil"
+    },
+    {
+        "ID": 856,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Great Bay Coast Soft Soil"
+    },
+    {
+        "ID": 857,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ranch Day 1 Soil"
+    },
+    {
+        "ID": 858,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ranch Day 2 or 3 Soil"
+    },
+    {
+        "ID": 859,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Secret Shrine Soft Soil"
+    },
+    {
+        "ID": 860,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Stone Tower Soft Soil Lower"
+    },
+    {
+        "ID": 861,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Stone Tower Soft Soil Upper"
+    },
+    {
+        "ID": 862,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Swamp Spider House Rock Soft Soil"
+    },
+    {
+        "ID": 863,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Swamp Spider House Gold Room Soft Soil"
+    },
+    {
+        "ID": 864,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Stump Soft Soil"
+    },
+    {
+        "ID": 865,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Observatory Soft Soil"
+    },
+    {
+        "ID": 866,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field South Wall Soft Soil"
+    },
+    {
+        "ID": 867,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Termina Field Pillar Soft Soil"
+    },
+    {
+        "ID": 868,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #1"
+    },
+    {
+        "ID": 869,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #2"
+    },
+    {
+        "ID": 870,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #3"
+    },
+    {
+        "ID": 871,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #4"
+    },
+    {
+        "ID": 872,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #5"
+    },
+    {
+        "ID": 873,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #6"
+    },
+    {
+        "ID": 874,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #7"
+    },
+    {
+        "ID": 875,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #8"
+    },
+    {
+        "ID": 876,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #9"
+    },
+    {
+        "ID": 877,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #10"
+    },
+    {
+        "ID": 878,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #11"
+    },
+    {
+        "ID": 879,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #12"
+    },
+    {
+        "ID": 880,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #13"
+    },
+    {
+        "ID": 881,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #14"
+    },
+    {
+        "ID": 882,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #15"
+    },
+    {
+        "ID": 883,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #16"
+    },
+    {
+        "ID": 884,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #17"
+    },
+    {
+        "ID": 885,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #18"
+    },
+    {
+        "ID": 886,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Guay #19"
+    },
+    {
+        "ID": 887,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Guay #20"
+    },
+    {
+        "ID": 888,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Guay #5a"
+    },
+    {
+        "ID": 889,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Guay #10a"
+    },
+    {
+        "ID": 890,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Guay #15a"
+    },
+    {
+        "ID": 891,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster"
+    },
+    {
+        "ID": 892,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster 2"
+    },
+    {
+        "ID": 893,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster 3"
+    },
+    {
+        "ID": 894,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster 4"
+    },
+    {
+        "ID": 895,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster 5"
+    },
+    {
+        "ID": 896,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Palace Rupee Cluster 6"
+    },
+    {
+        "ID": 897,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Deku Palace Rupee Cluster 7"
+    },
+    {
+        "ID": 898,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster"
+    },
+    {
+        "ID": 899,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 2"
+    },
+    {
+        "ID": 900,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 3"
+    },
+    {
+        "ID": 901,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 4"
+    },
+    {
+        "ID": 902,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 5"
+    },
+    {
+        "ID": 903,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 6"
+    },
+    {
+        "ID": 904,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Ikana Graveyard Rupee Cluster 7"
+    },
+    {
+        "ID": 905,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Song Wall Dawn"
+    },
+    {
+        "ID": 906,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Song Wall Dawn 2"
+    },
+    {
+        "ID": 907,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Song Wall Dawn 3"
+    },
+    {
+        "ID": 908,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Song Wall 0 / 8 / 12 / 16"
+    },
+    {
+        "ID": 909,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Song Wall 0 / 8 / 12 / 16 2"
+    },
+    {
+        "ID": 910,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Song Wall 0 / 8 / 12 / 16 3"
+    },
+    {
+        "ID": 911,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22"
+    },
+    {
+        "ID": 912,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22 2"
+    },
+    {
+        "ID": 913,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Song Wall 2 / 10 / 14 / 18 / 22 3"
+    },
+    {
+        "ID": 914,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Song Wall 4 / 20"
+    },
+    {
+        "ID": 915,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Song Wall 4 / 20 2"
+    },
+    {
+        "ID": 916,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Song Wall 4 / 20 3"
+    },
+    {
+        "ID": 917,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Song Wall Odd Hours"
+    },
+    {
+        "ID": 918,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Song Wall Odd Hours 2"
+    },
+    {
+        "ID": 919,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Song Wall Odd Hours 3"
+    },
+    {
+        "ID": 920,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 2 Item"
+    },
+    {
+        "ID": 921,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 2 Item 2"
+    },
+    {
+        "ID": 922,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 2 Item 3"
+    },
+    {
+        "ID": 923,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 2 Item 4"
+    },
+    {
+        "ID": 924,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 2 Item 5"
+    },
+    {
+        "ID": 925,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Playground Day 2 Item 6"
+    },
+    {
+        "ID": 926,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 1 Item"
+    },
+    {
+        "ID": 927,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 1 Item 2"
+    },
+    {
+        "ID": 928,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 1 Item 3"
+    },
+    {
+        "ID": 929,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 1 Item 4"
+    },
+    {
+        "ID": 930,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 1 Item 5"
+    },
+    {
+        "ID": 931,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Playground Day 1 Item 6"
+    },
+    {
+        "ID": 932,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 3 Item"
+    },
+    {
+        "ID": 933,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 3 Item 2"
+    },
+    {
+        "ID": 934,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 3 Item 3"
+    },
+    {
+        "ID": 935,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 3 Item 4"
+    },
+    {
+        "ID": 936,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Deku Playground Day 3 Item 5"
+    },
+    {
+        "ID": 937,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Deku Playground Day 3 Item 6"
+    },
+    {
+        "ID": 938,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Left Eye"
+    },
+    {
+        "ID": 939,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Left Eye 2"
+    },
+    {
+        "ID": 940,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Left Eye 3"
+    },
+    {
+        "ID": 941,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Right Eye"
+    },
+    {
+        "ID": 942,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Right Eye 2"
+    },
+    {
+        "ID": 943,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Pirates' Fortress Skull Flag Right Eye 3"
+    },
+    {
+        "ID": 944,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Hookshot Room Skull Flag Forehead"
+    },
+    {
+        "ID": 945,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Hookshot Room Skull Flag Forehead 2"
+    },
+    {
+        "ID": 946,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Hookshot Room Skull Flag Forehead 3"
+    },
+    {
+        "ID": 947,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem"
+    },
+    {
+        "ID": 948,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 2"
+    },
+    {
+        "ID": 949,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 3"
+    },
+    {
+        "ID": 950,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 4"
+    },
+    {
+        "ID": 951,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 5"
+    },
+    {
+        "ID": 952,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 6"
+    },
+    {
+        "ID": 953,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 7"
+    },
+    {
+        "ID": 954,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 8"
+    },
+    {
+        "ID": 955,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 9"
+    },
+    {
+        "ID": 956,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 10"
+    },
+    {
+        "ID": 957,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 11"
+    },
+    {
+        "ID": 958,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Swamp Spider House Blue Gem 12"
+    },
+    {
+        "ID": 959,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask"
+    },
+    {
+        "ID": 960,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 2"
+    },
+    {
+        "ID": 961,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 3"
+    },
+    {
+        "ID": 962,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 4"
+    },
+    {
+        "ID": 963,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 5"
+    },
+    {
+        "ID": 964,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 6"
+    },
+    {
+        "ID": 965,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 7"
+    },
+    {
+        "ID": 966,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 8"
+    },
+    {
+        "ID": 967,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Oceanside Spider House Mask 9"
+    },
+    {
+        "ID": 968,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Clam"
+    },
+    {
+        "ID": 969,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Clam 2"
+    },
+    {
+        "ID": 970,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Clam 3"
+    },
+    {
+        "ID": 971,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Wall"
+    },
+    {
+        "ID": 972,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Wall 2"
+    },
+    {
+        "ID": 973,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Wall 3"
+    },
+    {
+        "ID": 974,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Skull Kid Drawing"
+    },
+    {
+        "ID": 975,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Skull Kid Drawing 2"
+    },
+    {
+        "ID": 976,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Termina Field Skull Kid Drawing 3"
+    },
+    {
+        "ID": 977,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole"
+    },
+    {
+        "ID": 978,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole 2"
+    },
+    {
+        "ID": 979,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole 3"
+    },
+    {
+        "ID": 980,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole 4"
+    },
+    {
+        "ID": 981,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole 5"
+    },
+    {
+        "ID": 982,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Cucco Shack Diamond Hole 6"
+    },
+    {
+        "ID": 983,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern"
+    },
+    {
+        "ID": 984,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 2"
+    },
+    {
+        "ID": 985,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 3"
+    },
+    {
+        "ID": 986,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 4"
+    },
+    {
+        "ID": 987,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 5"
+    },
+    {
+        "ID": 988,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 6"
+    },
+    {
+        "ID": 989,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 7"
+    },
+    {
+        "ID": 990,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 8"
+    },
+    {
+        "ID": 991,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 9"
+    },
+    {
+        "ID": 992,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 10"
+    },
+    {
+        "ID": 993,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 11"
+    },
+    {
+        "ID": 994,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Ikana Graveyard Lantern 12"
+    },
+    {
+        "ID": 995,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stock Pot Inn Mask"
+    },
+    {
+        "ID": 996,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stock Pot Inn Mask 2"
+    },
+    {
+        "ID": 997,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Stock Pot Inn Mask 3"
+    },
+    {
+        "ID": 998,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target"
+    },
+    {
+        "ID": 999,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target 2"
+    },
+    {
+        "ID": 1000,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target 3"
+    },
+    {
+        "ID": 1001,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target 4"
+    },
+    {
+        "ID": 1002,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target 5"
+    },
+    {
+        "ID": 1003,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Target 6"
+    },
+    {
+        "ID": 1004,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Basket"
+    },
+    {
+        "ID": 1005,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Basket 2"
+    },
+    {
+        "ID": 1006,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "East Clock Town Basket 3"
+    },
+    {
+        "ID": 1007,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Clock Tower Clock"
+    },
+    {
+        "ID": 1008,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Clock Tower Clock 2"
+    },
+    {
+        "ID": 1009,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Clock Tower Clock 3"
+    },
+    {
+        "ID": 1010,
+        "Name": "Gold Rupee",
+        "ItemCategory": "GoldRupees",
+        "LocationName": "Takkuri"
+    },
+    {
+        "ID": 1011,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Hookshot Room Pot"
+    },
+    {
+        "ID": 1012,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Hookshot Room Pot 2"
+    },
+    {
+        "ID": 1013,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Termina Field Rock"
+    },
+    {
+        "ID": 1014,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Termina Field Rock 2"
+    },
+    {
+        "ID": 1015,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ikana Graveyard Highest Rock"
+    },
+    {
+        "ID": 1016,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ikana Graveyard Lowest Rock"
+    },
+    {
+        "ID": 1017,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Ikana Graveyard 2nd Lowest Rock"
+    },
+    {
+        "ID": 1018,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Rock 3"
+    },
+    {
+        "ID": 1019,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Rock 4"
+    },
+    {
+        "ID": 1020,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Rock 5"
+    },
+    {
+        "ID": 1021,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Rock 6"
+    },
+    {
+        "ID": 1022,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Termina Field Rock 7"
+    },
+    {
+        "ID": 1023,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Ikana Graveyard 2nd Highest Rock"
+    },
+    {
+        "ID": 1024,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Ikana Graveyard Middle Rock"
+    },
+    {
+        "ID": 1025,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Rock 8"
+    },
+    {
+        "ID": 1026,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Termina Field Rock 9"
+    },
+    {
+        "ID": 1027,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass"
+    },
+    {
+        "ID": 1028,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 2"
+    },
+    {
+        "ID": 1029,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 3"
+    },
+    {
+        "ID": 1030,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 4"
+    },
+    {
+        "ID": 1031,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 5"
+    },
+    {
+        "ID": 1032,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 6"
+    },
+    {
+        "ID": 1033,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 7"
+    },
+    {
+        "ID": 1034,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Milk Road Keaton Grass 8"
+    },
+    {
+        "ID": 1035,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Milk Road Keaton Grass 9"
+    },
+    {
+        "ID": 1036,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass"
+    },
+    {
+        "ID": 1037,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 2"
+    },
+    {
+        "ID": 1038,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 3"
+    },
+    {
+        "ID": 1039,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 4"
+    },
+    {
+        "ID": 1040,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 5"
+    },
+    {
+        "ID": 1041,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 6"
+    },
+    {
+        "ID": 1042,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 7"
+    },
+    {
+        "ID": 1043,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "North Clock Town Keaton Grass 8"
+    },
+    {
+        "ID": 1044,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "North Clock Town Keaton Grass 9"
+    },
+    {
+        "ID": 1045,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass"
+    },
+    {
+        "ID": 1046,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 2"
+    },
+    {
+        "ID": 1047,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 3"
+    },
+    {
+        "ID": 1048,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 4"
+    },
+    {
+        "ID": 1049,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 5"
+    },
+    {
+        "ID": 1050,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 6"
+    },
+    {
+        "ID": 1051,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 7"
+    },
+    {
+        "ID": 1052,
+        "Name": "Green Rupee",
+        "ItemCategory": "GreenRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 8"
+    },
+    {
+        "ID": 1053,
+        "Name": "Red Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Mountain Village Spring Keaton Grass 9"
+    },
+    {
+        "ID": 1054,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Oceanside Spider House Mask Room Pot"
+    },
+    {
+        "ID": 1055,
+        "Name": "10 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Oceanside Spider House Mask Room Pot 2"
+    },
+    {
+        "ID": 1056,
+        "Name": "30 Arrows",
+        "ItemCategory": "Arrows",
+        "LocationName": "Ikana Canyon Cleared Grass"
+    },
+    {
+        "ID": 1057,
+        "Name": "5 Bombs",
+        "ItemCategory": "Bombs",
+        "LocationName": "Ikana Canyon Cleared Grass 2"
+    },
+    {
+        "ID": 1058,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Ikana Canyon Cleared Grass 3"
+    },
+    {
+        "ID": 1059,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Spring Snowball"
+    },
+    {
+        "ID": 1060,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Spring Snowball 2"
+    },
+    {
+        "ID": 1061,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Spring Snowball 3"
+    },
+    {
+        "ID": 1062,
+        "Name": "Large Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Snowhead Spring Snowball 4"
+    },
+    {
+        "ID": 1063,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Mountain Village Spring Snowball"
+    },
+    {
+        "ID": 1064,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Mountain Village Spring Snowball 2"
+    },
+    {
+        "ID": 1065,
+        "Name": "Small Magic Jar",
+        "ItemCategory": "MagicJars",
+        "LocationName": "Path to Mountain Village Spring Snowball 3"
+    },
+    {
+        "ID": 1066,
+        "Name": "Silver Rupee",
+        "ItemCategory": "SilverRupees",
+        "LocationName": "Zora Cape Jar Game"
+    },
+    {
+        "ID": 1067,
+        "Name": "Crimson Rupee",
+        "ItemCategory": "RedRupees",
+        "LocationName": "Ikana Graveyard Day 2 Bats"
+    },
+    {
+        "ID": 1068,
+        "Name": "Blue Rupee",
+        "ItemCategory": "BlueRupees",
+        "LocationName": "Cucco Shack Potted Plant"
+    },
+    { "ID": 1069, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1070, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1071, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1072, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1073, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1074, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1075, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1076, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1077, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1078, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1079, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1080, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1081, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1082, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1083, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1084, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1085, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1086, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1087, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1088, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1089, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1090, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1091, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1092, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1093, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1094, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1095, "Name": null, "ItemCategory": "", "LocationName": null },
+    { "ID": 1096, "Name": null, "ItemCategory": "", "LocationName": null },
+    {
+        "ID": 1097,
+        "Name": "Recovery Heart",
+        "ItemCategory": "Fake",
+        "LocationName": null
+    },
+    { "ID": 1098, "Name": "Ice Trap", "ItemCategory": "", "LocationName": null }
+]
